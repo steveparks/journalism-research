@@ -68,6 +68,7 @@ The Top 50 most used words are as follows:
 | 50 | plan        |       1068 |
 
 It's no surprise that pandemic-specific words dominated in this period:
+
 |    | Word        |   Mentions |
 |---:|:------------|-----------:|
 |  1 | covid       |      12050 |
@@ -82,6 +83,7 @@ It's no surprise that pandemic-specific words dominated in this period:
 | 40 | test        |       1137 |
 
 The US election, presidential inauguration, and a lot of unrest and controversy around those happened in this period, explaining the ranking of these words:
+
 |    | Word        |   Mentions |
 |---:|:------------|-----------:|
 |  3 | us          |       4524 |
@@ -89,6 +91,7 @@ The US election, presidential inauguration, and a lot of unrest and controversy 
 | 17 | biden       |       2187 |
 
 Brexit also happened in this period:
+
 |    | Word        |   Mentions |
 |---:|:------------|-----------:|
 | 19 | eu          |       1711 |
