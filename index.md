@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Journalism research project
+I'm a former journalist who follows current journalism closely. It's fair to say we're living through a very intense era for news, with a very fragmented media to report on it. I'm curious to explore how stories emerge and develop.
 
-You can use the [editor on GitHub](https://github.com/steveparks/journalism-research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Data
+At the moment, my research focuses on the BBC News website. I've been scraping the top ten headlines, and taking a screenshot, from the website on the hour every hour since 28th July 2020. This data is gathered on a fair use basis for research purposes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That raw data is available in this github repo if other researchers are interested in accessing it.
 
-### Markdown
+## Questions
+My research is then based on interrogating this raw data through a series of questions:
+- [What does a year of the top items on the BBC News website look like?](/journalism-research/questions/bbcnews-year1-wordcloud.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Jupyter notebooks
+My analysis is all done with python in Jupyter notebooks. Other researchers and journalists can examine and reproduce my research by loading these notebooks. Each notebook is linked from the page for each question, and all notebooks are stored together in the 'Jupyter Notebooks' folder in this github repo.
 
-```markdown
-Syntax highlighted code block
+## Support
+This is a personal research project and I'm afraid I'm not able to offer any support for the data or notebooks.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steveparks/journalism-research/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Discussion
+If you'd like to discuss any of the research, I'm active on Twitter as [@steveparks](https://twitter.com/steveparks)
