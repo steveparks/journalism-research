@@ -1,6 +1,4 @@
-# Journalism Research
-
-The content ofn this project is hosted at:
+The content of this project is hosted at:
 https://steveparks.github.io/journalism-research/
 
 # Journalism research project
