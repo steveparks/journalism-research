@@ -8,7 +8,7 @@ That raw data is available in this github repo if other researchers are interest
 
 ## Questions
 My research is then based on interrogating this raw data through a series of questions:
-- [What does a year of the top items on the BBC News website look like?](/journalism-research/questions/bbcnews-year1-wordcloud.html)
+- [What does a year of the top items on the BBC News website look like?](/journalism-research/questions/bbcnews-year1-overview.html)
 
 ## Jupyter notebooks
 My analysis is all done with python in Jupyter notebooks. Other researchers and journalists can examine and reproduce my research by loading these notebooks. Each notebook is linked from the page for each question, and all notebooks are stored together in the 'Jupyter Notebooks' folder in this github repo.
