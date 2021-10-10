@@ -10,8 +10,7 @@ At the moment, my research focuses on the BBC News website. I've been scraping t
 That raw data is available in this github repo if other researchers are interested in accessing it.
 
 ## Questions
-My research is then based on interrogating this raw data through a series of questions:
-- [What does a year of the top items on the BBC News website look like?](/journalism-research/questions/bbcnews-year1-overview.html)
+My research is then based on interrogating this raw data through a series of questions available at https://steveparks.github.io/journalism-research/
 
 ## Jupyter notebooks
 My analysis is all done with python in Jupyter notebooks. Other researchers and journalists can examine and reproduce my research by loading these notebooks. Each notebook is linked from the page for each question, and all notebooks are stored together in the 'Jupyter Notebooks' folder in this github repo.
